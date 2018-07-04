@@ -1,5 +1,6 @@
 import List from '@/components/List';
 import Vue from 'vue';
+import { mount } from 'avoriaz';
 
 describe('List.vue', () => {
 
